@@ -13,6 +13,7 @@
   - Spectacle [webpage](https://formidable.com/open-source/spectacle/), [github](https://github.com/FormidableLabs/spectacle)
   
 - Reveal.js [github](https://github.com/hakimel/reveal.js/)
+  - Cicero - Serving presentation slides written in Markdown: https://cicero.xyz/
 
 - impress.js, inspired by prezi [github](https://github.com/impress/impress.js), [tutorials](https://github.com/impress/impress.js/wiki/impress.js-tutorials-and-other-learning-resources), [Examples, Demos, Authoring tools)(https://github.com/impress/impress.js/wiki/Examples-and-demos)
   - visual 3D editor, [impressionist](https://github.com/henrikingo/impressionist)

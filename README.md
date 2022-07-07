@@ -1,4 +1,4 @@
-# Open-Source-Office-Tools
+# Open Source Office Tools
 
 ## Presentation
 
